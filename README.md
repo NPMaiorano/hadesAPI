@@ -1,4 +1,4 @@
-# hadesCRUD
+# hadesAPI
 
 API instruction to come -- looking for a new host
 
